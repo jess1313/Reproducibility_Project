@@ -1,0 +1,1 @@
+This is reproducibility project attempts to reproduce Figure 2 and 4 of t he paper, "A predictive model for lack of partial clinical remission in new-onset pediatric type 1 diabetes"
